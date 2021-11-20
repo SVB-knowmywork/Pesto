@@ -1,10 +1,11 @@
 ## Table of contents
 
-- [Introduction](#intro)
-- [Technologies](#technologies)
+- [Introduction](#introduction)
+- [Technologies](#technologies used to build this project)
 - [Setup](#setup)
 - [Features](#features)
 - [Screenshots](#screenshots)
+- [Resources](#resources)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -60,6 +61,6 @@ You should be able to see the landing page.
 <a href=""> PRD </a>\
 <a href=""> Wireframes</a>
 
-## Contributors ✨
+## Contributors
 
 <a href="https://github.com/iamkishorp"><img src="" width="100px;" alt=""/>Alisha Mahajan, Shubham Bansal</a>
