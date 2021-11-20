@@ -1,7 +1,7 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-- [Technologies](#technologies used to build this project)
+- [Technologies](#technologies-used-to-build-this-project)
 - [Setup](#setup)
 - [Features](#features)
 - [Screenshots](#screenshots)
