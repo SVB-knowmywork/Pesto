@@ -13,13 +13,11 @@ With Bookshelf, consumers do not need to blindly go to various places to find re
 
 -Live demo [_here_]().
 
-Frontend and Backend are hosted on Netlify.
-
 ## Technologies used to build this project
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)\
-![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)\
 ![Node.js](https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=nodedotjs&logoColor=white)\
 
 ## Other Libraries Used
