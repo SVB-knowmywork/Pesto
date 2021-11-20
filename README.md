@@ -57,10 +57,11 @@ You should be able to see the landing page.
 
 ## Resources
 
-<a href="">High Level Design</a>\
+<a href="">High Level Design</a>
 <a href=""> PRD </a>\
 <a href=""> Wireframes</a>
 
 ## Contributors
 
-<a href="https://github.com/iamkishorp"><img src="" width="100px;" alt=""/>Alisha Mahajan, Shubham Bansal</a>
+<a href=""><img src="" width="100px;" alt=""/>Alisha Mahajan</a>
+<a href=""><img src="" width="100px;" alt=""/>Shubham Bansal</a>
